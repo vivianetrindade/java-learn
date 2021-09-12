@@ -4,16 +4,16 @@ public class Buzz{
     
     public static void baffle(String blimp) {
         System.out.println(blimp);
-        zippo("ping pong", -5);
+        zippo("ping", -5);
     }
 
 public static void zippo(String quince, int flag) {
     if (flag < 0) {
         System.out.println(quince + " zoop");
     } else {
-        System.out.println("yay!");
+        System.out.println("ik");
         baffle(quince);
-        System.out.println("boo-wa-ha-ha.");
+        System.out.println("boo-wa-ha-ha");
     }
 }
 
