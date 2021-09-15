@@ -1,4 +1,4 @@
-package ead.home.karolinska.ex01;
+package ead.home.karolinska.C5EX5_4;
 
 public class C5EX5_4 {
     //method called checkFermat

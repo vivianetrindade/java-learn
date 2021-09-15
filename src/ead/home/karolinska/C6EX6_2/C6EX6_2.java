@@ -1,4 +1,4 @@
-package ead.home.karolinska.ex03;
+package ead.home.karolinska.C6EX6_2;
 
 public class C6EX6_2 {
 	
